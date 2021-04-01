@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Githubuser</string>
+    <string name="search_hint">Cari User</string>
+    <string name="action_settings">Setelan</string>
+    <string name="empty_user_list">Tidak ada User</string>
+    <string name="Detail_Repositories">n Repositories</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Followers_and_Following">%s Pengikut  %s Mengikuti</string>
+    <string name="No_Location">Tidak ada Lokasi</string>
+    <string name="No_Company">Tidak ada Perusahaan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="detail_profile_image">Detail Profile Image</string>
+    <string name="github_logo">Github logo</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
